@@ -1,1 +1,0 @@
-* The used version of ANTS2 did not include tools for simulating diffusion, so they had to be added into the source code. (GITHUB CITATION) shows the added functions --> 07_diff_sim
